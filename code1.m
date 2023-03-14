@@ -2,10 +2,13 @@
 a = 10;
 b = 20;
 
-c = tambah(a, b);
+c = 3 * tambah(a, b);
+
+
 
 function z = tambah(x, y)
-z = 3*x + 1.5*y;
+z = cos ( 3*x + 1.5*y );
+
 end 
 
 
