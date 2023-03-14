@@ -5,7 +5,7 @@ b = 20;
 c = tambah(a, b);
 
 function z = tambah(x, y)
-z = x + y;
+z = 3*x + 1.5*y;
 end 
 
 
